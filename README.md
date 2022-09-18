@@ -1,6 +1,6 @@
 # Coursera-Student-Adviser
 Capstone project
-WARNING - This chatbot has been developed as the Capstone project for the course, Building AI Applications with Watson APIs.
+WARNING - This chatbot has been developed as the Capstone project for the course, Building AI Applications with Watson APIs. The chatbot is intended to be compliant wiht the General Data Protection Regulation (GDPR) regime.
 
 The chatbot will welcome you if you click on the following link:
 
