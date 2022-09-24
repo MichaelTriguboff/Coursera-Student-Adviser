@@ -1,6 +1,6 @@
 # Coursera-Student-Adviser
 Capstone project
-WARNING - This chatbot has been developed as the Capstone project for the course, Building AI Applications with Watson APIs. The chatbot is intended to be compliant wiht the General Data Protection Regulation (GDPR) regime.
+WARNING - This chatbot has been developed as the Capstone project for the course, Building AI Applications with Watson APIs. The chatbot is intended to be compliant with the General Data Protection Regulation (GDPR) regime.
 
 With Discovery integration, Student Adviser has access to a Coursera catalog with information about 500 courses JSON files using advanced NLP, Concept Tagging and Keyword Extraction enrichments as data mining features. Student Adviser also has access to Coursera Help Articles to answer FAQ about the courses.
 
