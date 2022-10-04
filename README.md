@@ -8,7 +8,9 @@ The chatbot will welcome you if you click on the following link:
 
 
 I have also provided some screenshots which may be of assistance.
-Facebook: 
+
+Facebook: https://business.facebook.com/latest/inbox/all?business_id=1692353924497233&asset_id=102940575883674&nav_ref=pages_classic_isolated_section_inbox_redirect&entry_exp=sodhniwgpb&mailbox_id=&selected_item_id=653862993
+
 Slack:
 
 
@@ -18,6 +20,7 @@ The improvements made to the base model as developed in accord with the instruct
 3. after the courses offered, the bot will ask if the enquirer wants to see the professional certificates or university programmes which accept Coursera credit.
 4. if the chatbot cannot provide an answer satisfactory to the prospective student, at first instance, the coursera help web site is hyperlinked
 5. the Professional Certificate sector has been augmented by a university sector with links to which universities accepte credit for Coursera courses, For example, for computer science credits, a link to Univerisyt of Michigan has been created, and for law, a link to the University of Sydney has been created. In truth, I do not know if these academic institutions accept Coursera credits.
+6. I have used disambiguation in a few places: Disambiguation instructs your assistant to ask the enquirer for help when more than one dialog node can respond to a customer's input. Instead of guessing which node to process, Student Adviser shares a list of the top node options with the user, and asks the user to pick the right one
 
 I believe that these enhancements will assist students in finding the most appropriate courses to fufill their objectives.
 
