@@ -24,7 +24,7 @@ I believe that these enhancements will assist students in finding the most appro
 With more time, the following additions may be useful:
 
 1. determining which questions are most frequently asked, and which comments elicit the most favourable responses. If the enquirer has provided its details such as domicile and occupaiton, then the responses could be analysed by these variables.
-2. maintaining a database of user questions by user beyond the duration of the session would be useful. As constructed, the context variable stores the information ( name, age, occupation and domicile) only for the duration of the session.
+2. maintaining a database of user questions by user beyond the duration of the session would be useful. As constructed, the context variable stores the information ( name, occupation and domicile) only for the duration of the session.
 3. I assume that financial assistance is dependent on the domicile of the enquirer. The advice offered should be domicile dependent. There should be a automatic fill of country ( for example typing 'Austra' for Australia which would requirea separate data upload which is not permitted in the Light version.
-4. I would have added links to each course so that the enquirer could further examine the particular course including learnign of prerequisites and terms and conditions
+4. I would have added links to each course so that the enquirer could further examine the particular course including learning of prerequisites and terms and conditions
 5. the site should be multilingual
