@@ -11,7 +11,7 @@ I have also provided some screenshots which may be of assistance.
 
 Facebook: https://business.facebook.com/latest/inbox/all?business_id=1692353924497233&asset_id=102940575883674&nav_ref=pages_classic_isolated_section_inbox_redirect&entry_exp=sodhniwgpb&mailbox_id=&selected_item_id=653862993
 
-Slack:
+Slack:https://app.slack.com/client/T03UTPU4ES3/D044W9TR476
 
 
 The improvements made to the base model as developed in accord with the instructions include:
