@@ -21,6 +21,7 @@ The improvements made to the base model as developed in accord with the instruct
 4. if the chatbot cannot provide an answer satisfactory to the prospective student, at first instance, the coursera help web site is hyperlinked
 5. the Professional Certificate sector has been augmented by a university sector with links to which universities accepte credit for Coursera courses, For example, for computer science credits, a link to Univerisyt of Michigan has been created, and for law, a link to the University of Sydney has been created. In truth, I do not know if these academic institutions accept Coursera credits.
 6. I have used disambiguation in a few places: Disambiguation instructs your assistant to ask the enquirer for help when more than one dialog node can respond to a customer's input. Instead of guessing which node to process, Student Adviser shares a list of the top node options with the user, and asks the user to pick the right one
+7. At the close of the conversation, with a generally positive response, the enquirer is thanked by its name (unless no name was provided)-see attached screenshot
 
 I believe that these enhancements will assist students in finding the most appropriate courses to fufill their objectives.
 
