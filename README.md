@@ -24,6 +24,8 @@ The improvements made to the base model as developed in accord with the instruct
 7. At the close of the conversation, with a generally positive response, the enquirer is thanked by its name (unless no name was provided)-see attached screenshot
 8. In the Help dialog, I created an option for zthe enquirer to speak to a human agent via a toll free number or creating a support ticket
 
+All the above are captured in screenshots and included in this folder.
+
 I believe that these enhancements will assist students in finding the most appropriate courses to fufill their objectives.
 
 With more time, the following additions may be useful:
