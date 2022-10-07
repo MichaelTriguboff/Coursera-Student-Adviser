@@ -26,7 +26,7 @@ The improvements made to the base model as developed in accord with the instruct
 
 All the above are captured in screenshots and included in this folder.
 
-I was unable to connect to webhook. I have contacted both the course instructors with the web link showing an empty response, but have not received a response. I also have contacted IBM Watson directly. We believe the problem has something to do with my domicile ( Australia) for which the IBM Watson Lite services are not available, and this has been a recurring problem for me in this course ( which the Coursera instructors acknowledge and have twice had to rectify at the Discovery end.
+I was unable to connect to webhook. I have contacted both the course instructors and shared with them every screen shot of the relevant lab, but no one has come up with a solution. I also have contacted IBM Watson directly. IBM Watson believe the problem has something to do with my domicile ( Australia) for which the IBM Watson Lite services are not available, and this has been a recurring problem for me in this course ( which the Coursera instructors acknowledge and have twice had to rectify at the Discovery end). IBM Watson and the instructors are continuing to search for a solution, but I need to submit now.
 
 I believe that these enhancements will assist students in finding the most appropriate courses to fufill their objectives.
 
